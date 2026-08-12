@@ -1,0 +1,10 @@
+V4 NOISE-AWARE DETAIL RESTORATION
+======================================================================
+
+Images evaluated       : 320
+PSNR                   : 28.331274 dB
+SSIM                   : 0.765930
+LPIPS                  : 0.258063
+Inference time/image   : 19.4406 ms
+Inference images/sec   : 51.4387
+Total inference time   : 16.3338 s

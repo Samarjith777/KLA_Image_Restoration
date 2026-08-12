@@ -1,0 +1,33 @@
+V4 NOISE-AWARE DETAIL TRAINING HISTORY
+================================================================================
+
+Epoch 01 | Train Loss: 0.063201 | Pixel: 0.037308 | Edge: 0.154351 | Detail: 0.091334 | Val Loss: 0.057195 | PSNR: 27.4265 dB | LR: 1.000e-04
+Epoch 02 | Train Loss: 0.058315 | Pixel: 0.034511 | Edge: 0.141082 | Detail: 0.088048 | Val Loss: 0.055928 | PSNR: 27.6954 dB | LR: 9.973e-05
+Epoch 03 | Train Loss: 0.057388 | Pixel: 0.033960 | Edge: 0.138671 | Detail: 0.087571 | Val Loss: 0.055369 | PSNR: 27.7614 dB | LR: 9.891e-05
+Epoch 04 | Train Loss: 0.056864 | Pixel: 0.033624 | Edge: 0.137504 | Detail: 0.087146 | Val Loss: 0.054997 | PSNR: 27.8902 dB | LR: 9.756e-05
+Epoch 05 | Train Loss: 0.056387 | Pixel: 0.033375 | Edge: 0.136065 | Detail: 0.086760 | Val Loss: 0.054659 | PSNR: 27.9378 dB | LR: 9.568e-05
+Epoch 06 | Train Loss: 0.056092 | Pixel: 0.033192 | Edge: 0.135373 | Detail: 0.086447 | Val Loss: 0.054896 | PSNR: 27.7900 dB | LR: 9.331e-05
+Epoch 07 | Train Loss: 0.055866 | Pixel: 0.033074 | Edge: 0.134692 | Detail: 0.086280 | Val Loss: 0.054178 | PSNR: 28.0183 dB | LR: 9.046e-05
+Epoch 08 | Train Loss: 0.055586 | Pixel: 0.032901 | Edge: 0.134027 | Detail: 0.086041 | Val Loss: 0.054123 | PSNR: 28.0086 dB | LR: 8.717e-05
+Epoch 09 | Train Loss: 0.055500 | Pixel: 0.032859 | Edge: 0.133747 | Detail: 0.085946 | Val Loss: 0.053914 | PSNR: 27.9735 dB | LR: 8.347e-05
+Epoch 10 | Train Loss: 0.055238 | Pixel: 0.032713 | Edge: 0.133007 | Detail: 0.085790 | Val Loss: 0.053800 | PSNR: 28.0653 dB | LR: 7.941e-05
+Epoch 11 | Train Loss: 0.055125 | Pixel: 0.032656 | Edge: 0.132658 | Detail: 0.085687 | Val Loss: 0.053561 | PSNR: 28.0642 dB | LR: 7.503e-05
+Epoch 12 | Train Loss: 0.054983 | Pixel: 0.032565 | Edge: 0.132331 | Detail: 0.085602 | Val Loss: 0.053627 | PSNR: 28.0515 dB | LR: 7.037e-05
+Epoch 13 | Train Loss: 0.054844 | Pixel: 0.032484 | Edge: 0.131961 | Detail: 0.085514 | Val Loss: 0.053543 | PSNR: 28.0493 dB | LR: 6.549e-05
+Epoch 14 | Train Loss: 0.054705 | Pixel: 0.032398 | Edge: 0.131626 | Detail: 0.085423 | Val Loss: 0.053593 | PSNR: 28.1711 dB | LR: 6.044e-05
+Epoch 15 | Train Loss: 0.054549 | Pixel: 0.032319 | Edge: 0.131143 | Detail: 0.085303 | Val Loss: 0.053579 | PSNR: 28.0196 dB | LR: 5.527e-05
+Epoch 16 | Train Loss: 0.054396 | Pixel: 0.032222 | Edge: 0.130781 | Detail: 0.085221 | Val Loss: 0.053272 | PSNR: 28.2064 dB | LR: 5.005e-05
+Epoch 17 | Train Loss: 0.054304 | Pixel: 0.032170 | Edge: 0.130532 | Detail: 0.085153 | Val Loss: 0.052987 | PSNR: 28.1825 dB | LR: 4.483e-05
+Epoch 18 | Train Loss: 0.054187 | Pixel: 0.032100 | Edge: 0.130229 | Detail: 0.085089 | Val Loss: 0.052824 | PSNR: 28.2520 dB | LR: 3.966e-05
+Epoch 19 | Train Loss: 0.054069 | Pixel: 0.032024 | Edge: 0.129964 | Detail: 0.085014 | Val Loss: 0.052788 | PSNR: 28.2248 dB | LR: 3.461e-05
+Epoch 20 | Train Loss: 0.053966 | Pixel: 0.031974 | Edge: 0.129628 | Detail: 0.084943 | Val Loss: 0.052815 | PSNR: 28.1989 dB | LR: 2.973e-05
+Epoch 21 | Train Loss: 0.053871 | Pixel: 0.031911 | Edge: 0.129426 | Detail: 0.084887 | Val Loss: 0.052629 | PSNR: 28.2406 dB | LR: 2.508e-05
+Epoch 22 | Train Loss: 0.053785 | Pixel: 0.031866 | Edge: 0.129159 | Detail: 0.084834 | Val Loss: 0.052547 | PSNR: 28.2473 dB | LR: 2.069e-05
+Epoch 23 | Train Loss: 0.053727 | Pixel: 0.031839 | Edge: 0.128956 | Detail: 0.084800 | Val Loss: 0.052504 | PSNR: 28.2725 dB | LR: 1.663e-05
+Epoch 24 | Train Loss: 0.053645 | Pixel: 0.031786 | Edge: 0.128777 | Detail: 0.084761 | Val Loss: 0.052560 | PSNR: 28.3133 dB | LR: 1.293e-05
+Epoch 25 | Train Loss: 0.053589 | Pixel: 0.031756 | Edge: 0.128608 | Detail: 0.084733 | Val Loss: 0.052408 | PSNR: 28.2978 dB | LR: 9.640e-06
+Epoch 26 | Train Loss: 0.053550 | Pixel: 0.031738 | Edge: 0.128471 | Detail: 0.084715 | Val Loss: 0.052364 | PSNR: 28.3135 dB | LR: 6.792e-06
+Epoch 27 | Train Loss: 0.053519 | Pixel: 0.031717 | Edge: 0.128408 | Detail: 0.084692 | Val Loss: 0.052389 | PSNR: 28.3293 dB | LR: 4.418e-06
+Epoch 28 | Train Loss: 0.053495 | Pixel: 0.031703 | Edge: 0.128344 | Detail: 0.084683 | Val Loss: 0.052359 | PSNR: 28.3273 dB | LR: 2.545e-06
+Epoch 29 | Train Loss: 0.053473 | Pixel: 0.031692 | Edge: 0.128268 | Detail: 0.084677 | Val Loss: 0.052348 | PSNR: 28.3287 dB | LR: 1.192e-06
+Epoch 30 | Train Loss: 0.053463 | Pixel: 0.031690 | Edge: 0.128220 | Detail: 0.084663 | Val Loss: 0.052351 | PSNR: 28.3314 dB | LR: 3.736e-07
