@@ -9,7 +9,7 @@ import torch
 # PROJECT ROOT
 # ------------------------------------------------------------
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = Path(__file__).resolve().parent
 
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
@@ -44,11 +44,9 @@ OUTPUT_DIR = Path(args.output_dir).resolve()
 
 CHECKPOINT = (
     PROJECT_ROOT
-    / "checkpoints"
-    / "v4_noise_detail"
+    / "checkpoint"
     / "v4_noise_detail_best.pth"
 )
-
 
 # ------------------------------------------------------------
 # CHECK PATHS
