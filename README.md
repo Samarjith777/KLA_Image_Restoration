@@ -108,7 +108,7 @@ L_total = 1.0 × L_pixel + 0.15 × L_edge + 0.03 × L_detail
 
 | Approach | Noise Handling | Detail Preservation | Parameters | Inference Speed |
 |----------|---------------|---------------------|------------|-----------------|
-| **V4 (Ours)** | ✅ Learned noise gating | ✅ Dual-scale detail | ~800K | ⚡ Real-time |
+| **V4 (KLA_IMAGE_RESTORATION)** | ✅ Learned noise gating | ✅ Dual-scale detail | ~800K | ⚡ Real-time |
 | Bicubic Interpolation | ❌ Amplifies noise | ❌ Blurs detail | — | ⚡⚡⚡ Instant |
 | Simple CNN (SRCNN-like) | ⚠️ Mild suppression | ⚠️ Limited detail | ~50K | ⚡⚡⚡ Fast |
 | Heavy U-Net | ⚠️ Aggressive smoothing | ✅ Good detail | ~30M | 🐢 Slow |
